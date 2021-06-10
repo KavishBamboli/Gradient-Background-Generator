@@ -1,4 +1,4 @@
-##Gradient-Background-Generator
+#Gradient-Background-Generator
 
 This project helps you pick linear gradient background for your web projects.
 
